@@ -1,0 +1,2 @@
+# MIUI_ROM_Updater
+数据来自XiaomiFirmwareUpdater，我只是做了个汇总
